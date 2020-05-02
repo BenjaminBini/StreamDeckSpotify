@@ -2,7 +2,7 @@
 
 ## Usage
 
-You can download the plugin from the [release page]().
+You can download the plugin from the [release page](https://github.com/BenjaminBini/StreamDeckSpotify/releases).
 
 This plugins shows the artwork of the song currently playing and allows you to play/pause by pressing your StreamDeck button.
 
