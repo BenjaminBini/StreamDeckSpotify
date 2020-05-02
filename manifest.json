@@ -1,0 +1,38 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/icon",
+      "Name": "StreamDeckSpotify",
+      "States": [
+        {
+          "Image": "Images/pluginAction",
+          "TitleAlignment": "middle",
+          "FontSize": "12"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "TestTooltip",
+      "UUID": "com.bini.spotify",
+      "PropertyInspectorPath": "PropertyInspector/PluginActionPI.html"
+    }
+  ],
+  "Author": "Benjamin Bini",
+  "Name": "StreamDeckSpotify",
+  "Description": "StreamDeckSpotify",
+  "Icon": "Images/pluginIcon",
+  "URL": "https://bini.io",
+  "Version": "1.0",
+  "CodePath": "com.bini.spotify",
+  "Category": "Bini",
+  "CategoryIcon": "Images/categoryIcon",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "4.3"
+  }
+}
